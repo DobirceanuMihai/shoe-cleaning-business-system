@@ -23,6 +23,7 @@ Accounts for testing:
 ### Admin Only Features
 
 * Dashboard to view revenue, sales, client metrics, and service metrics over a selected time period and branch.
+* Only the data from the paid orders will be displayed in the dashboard.
 * Additional table for managing business accounts.
 * Add, update, view, delete branches.
 * Add, update, view, delete cleaning services.
