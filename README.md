@@ -6,8 +6,8 @@ The Shoe Cleaning Business System is a web application designed to streamline cl
 
 Accounts for testing:
 
-* Email: admin@email.com, Password: admin  -  Admin role
-* Email: employee1@email.com, Password: employee  -  Employee role
+* [Email: admin@email.com, Password: admin]  -  Admin role
+* [Email: employee1@email.com, Password: employee]  -  Employee role
 
 ## Features
 
