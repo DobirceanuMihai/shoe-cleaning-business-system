@@ -32,7 +32,10 @@ Accounts for testing:
 ## Built With
 
 * [![Angular][Angular.io]][Angular-url] - Version 18.2.11
-* [![Supabase][Supabase,io][Supabase-url]] - Version 2.46.1
+* [![Supabase][Supabase.io][Supabase-url]] - Version 2.46.1
 
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
+
+[Supabase.io]: https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white
+[Supabase-url]: https://supabase.com/
