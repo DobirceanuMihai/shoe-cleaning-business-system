@@ -1,7 +1,8 @@
 # Shoe Cleaning Business System
 
 ## Description
-The Shoe Cleaning Business System is a web application designed to streamline client management for shoe cleaning businesses operating in multiple cities.
+
+The Shoe Cleaning Business System is a web application designed to streamline client management for shoe cleaning businesses operating in multiple cities. It uses Supabase to handle data and authentication.
 
 ## Preview
 
@@ -10,6 +11,7 @@ The Shoe Cleaning Business System is a web application designed to streamline cl
 ![Activity](/github/activity_table.jpeg)
 
 ## Demo
+
 [Live preview](https://dobirceanumihai.github.io/shoe-cleaning-business-system/#/login)
 
 Accounts for testing:
